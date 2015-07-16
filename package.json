@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/joshux/seia-project/issues"
   },
-  "homepage": "https://github.com/joshux/seia-project#readme"
+  "homepage": "https://github.com/joshux/seia-project#readme",
+  "dependencies": {
+    "hiredis": "^0.4.0",
+    "jade": "^1.10.0",
+    "lodash": "^3.10.0",
+    "redis": "^0.12.1",
+    "request": "^2.58.0",
+    "through2": "^2.0.0"
+  }
 }
